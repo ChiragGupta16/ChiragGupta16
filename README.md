@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Chirag</h1>
 <p>Hi, I'm Chirag Gupta, a tech enthusiast passionate about Deep Learning, Embedded Systems, and Edge AI. I enjoy building intelligent systems and deploying machine learning models on edge devices. Currently, I’m working on projects involving deep learning and IOT.  Always eager to learn and innovate!</p>
-<p><b>Domain Skills: Data Structures, Edge AI, Embedded Systems & Deep Learning</b></p>
+<p><b>Domain Skills: Data Structures, Edge AI, Gen AI, Embedded Systems & Deep Learning</b></p>
 <p><b>Additional Skills: ESP32, TinyML, Data Preprocessing, Transfer Learning, SPIFFS 
-I2C, I2S & MQTT Protocol, OpenCV, Pandas, Boltzmann Machines, Auto-Encoders, NLP</b></p>
+I2C, I2S & MQTT Protocol, OpenCV, Pandas, Boltzmann Machines, Auto-Encoders, NLP, Hugging Face, LangChain, OpenAI API, Chatbot, ChromaDB, Textual Embeddings </b></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>

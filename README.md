@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Chirag</h1>
 <p>Hi, I'm Chirag Gupta, a tech enthusiast passionate about Deep Learning, Embedded Systems, and Edge AI. I enjoy building intelligent systems and deploying machine learning models on edge devices. My research paper titled "<i>An AI enabled Sensor Fusion Based Approach For
-Improved Billing System</i>" is currently under review at <i>IEEE International Conference on Instrumentation 2026</i>. Always eager to learn and innovate!</p>
+Improved Billing System</i>" has been accepted at the <i>IEEE International Conference on Instrumentation 2026</i>. Always eager to learn and innovate!</p>
 <p><b>Domain Skills: Embedded Systems & Deep Learning</b></p>
 
 <h2>🚀 Languages and Tools I Use</h2>
